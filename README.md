@@ -4,7 +4,9 @@ Simple herramienta escrita en Python para escaneo de puertos utilizando algunas 
 # Instalación 
 
 sudo git clone https://github.com/BurkeHack/pynmap.git
+
 cd pynmap/
+
 pip install -r requeriments.txt 
 
 # Uso
