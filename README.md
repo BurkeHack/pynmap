@@ -11,4 +11,4 @@ pip install -r requeriments.txt
 
 # Uso
 
-python3 pynmap.py [IP]
+sudo python3 pynmap.py [IP]
