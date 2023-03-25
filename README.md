@@ -7,7 +7,7 @@ sudo git clone https://github.com/BurkeHack/pynmap.git
 
 cd pynmap/
 
-pip install -r requeriments.txt 
+pip install -r requirements.txt 
 
 # Uso
 
