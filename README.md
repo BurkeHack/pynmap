@@ -1,5 +1,5 @@
 # Pynmap
-Simple herramienta escrita en Python para escaneo de puertos utilizando algunas técnicas básicas de evasión e imprimiendo los resultados en una tabla. 
+Simple herramienta escrita en Python para escaneo de puertos tcp/udp utilizando algunas técnicas básicas de evasión e imprimiendo los resultados en una tabla. 
 
 # Instalación 
 
